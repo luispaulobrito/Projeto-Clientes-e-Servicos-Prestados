@@ -1,25 +1,30 @@
-# Claculadora
+# Clientes e Serviços Prestados
 
 # Sobre o projeto
 
-https://calculadoralp.netlify.app/
+Clientes e Serviços Prestados é uma aplicação web e mobile construída para representar um sistema que realiza as operações de cadastro, busca, atualização e deleção num banco de dados H2.
 
-Claculadora é uma aplicação web e mobile construída para representar uma calculadora online.
+Nesse projeto foi aprendido como desenvolver uma RestFUL API com Spring Boot e consumir com aplicação Angular.
 
-Nesse projeto foi aprendido: como estruturar um layout utilizando HTML, CSS e JavaScript. No CSS foi utilizado Flex e o JavaScript foi utlizado para executar as funções dos botões e realizar os cálculos aritméticos.
+## Layout 
+![Web 1](https://github.com/luispaulobrito/Projeto-Clientes-e-Servicos-Prestados/blob/main/assets/Screenshot_1.png)
 
-## Layout mobile
-![Mobile 1](https://github.com/luispaulobrito/Frontend-Mentor/blob/main/assets/calculadora.png)
+![Web 2](https://github.com/luispaulobrito/Projeto-Clientes-e-Servicos-Prestados/blob/main/assets/Screenshot_2.png)
 
-## Layout web
-![Web 1](https://github.com/luispaulobrito/Frontend-Mentor/blob/main/assets/calculadora2.png)
+![Web 3](https://github.com/luispaulobrito/Projeto-Clientes-e-Servicos-Prestados/blob/main/assets/api.gif)
 
 # Tecnologias utilizadas
 ## Front end
-- HTML / CSS / JS
+- Angular
+- Bootstrap
+- Typescript
 
-## Implantação em produção
-- Front end web: Netlify
+## Back end
+- Java
+- Spring Boot
+
+## Banco de Dados
+- H2
 
 # Autor
 
